@@ -1,0 +1,7 @@
+c:\users\tech academy student\source\repos\booleanLogic\booleanLogic\bin\Debug\booleanLogic.exe.config
+c:\users\tech academy student\source\repos\booleanLogic\booleanLogic\bin\Debug\booleanLogic.exe
+c:\users\tech academy student\source\repos\booleanLogic\booleanLogic\bin\Debug\booleanLogic.pdb
+c:\users\tech academy student\source\repos\booleanLogic\booleanLogic\obj\Debug\booleanLogic.csprojResolveAssemblyReference.cache
+c:\users\tech academy student\source\repos\booleanLogic\booleanLogic\obj\Debug\booleanLogic.csproj.CoreCompileInputs.cache
+c:\users\tech academy student\source\repos\booleanLogic\booleanLogic\obj\Debug\booleanLogic.exe
+c:\users\tech academy student\source\repos\booleanLogic\booleanLogic\obj\Debug\booleanLogic.pdb
